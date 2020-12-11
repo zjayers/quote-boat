@@ -1,8 +1,7 @@
 # Quote-Boat
-[![GitHub Release](https://img.shields.io/github/release/zjayers/quote-boat.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/quote-boat.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/quote-boat.svg?style=flat)](https://github.com/zjayers/quote-boat/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/quote-boat.svg?style=flat)](https://github.com/zjayers/quote-boat/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/quote-boat.svg?maxAge=25000)](https://github.com/zjayers/quote-boat/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/quote-boat/blob/master/LICENSEs)
 
 ## Description
 
