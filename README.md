@@ -1,24 +1,21 @@
-# quote-boat
+# Quote-Boat
+[![GitHub Release](https://img.shields.io/github/release/zjayers/quote-boat.svg?style=flat)]()
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/quote-boat.svg?style=flat)]()
+[![Issues](https://img.shields.io/github/issues-raw/zjayers/quote-boat.svg?maxAge=25000)](https://github.com/zjayers/quote-boat/issues)
+[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/quote-boat/blob/master/LICENSEs)
 
-## Project setup
-```
-npm install
-```
+## Description
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+> Work in progress
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Features
 
-### Lints and fixes files
-```
-npm run lint
-```
+> Work in progress
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Installation
+
+> Work in progress
+
+## Usage
+
+> Work in progress
